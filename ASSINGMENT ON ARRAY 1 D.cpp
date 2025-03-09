@@ -1,3 +1,6 @@
+/*Entails array exercise one ,two and three dimension
+author Brian koros
+Admmission BSE-05-0214/2024*/
 #include <iostream>
 using namespace std;
 
